@@ -1,250 +1,254 @@
 {
-  "cushion": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-cushion.skp",
-    "filename": "STC-GEN-cushion.skp"
-  },
-  "purple_plexiglass_unit_cushion": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-purple-plexiglass-unit-cushion.skp",
-    "filename": "STC-GEN-purple-plexiglass-unit-cushion.skp"
-  },
-  "stc_gen_highlight_d_scooter": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-highlight-d-scooter.skp",
-    "filename": "STC-GEN-highlight-d-scooter.skp"
-  },
-  "arper_ralik_1_seater_pouf_7400": {
-    "url": null,
-    "filename": "Arper_Ralik_1_seater_pouf_7400.skp"
-  },
-  "pouf_9x9_coral": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-pouf-9x9-coral.skp",
-    "filename": "STC-GEN-pouf-9x9-coral.skp"
-  },
-  "dual_module_a": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-dual-module-a.skp",
-    "filename": "STC-GEN-dual-module-a.skp"
-  },
-  "stc_logo": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-logo.skp",
-    "filename": "STC-GEN-stc-logo.skp"
-  },
-  "interior_column": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-interior-column.skp",
-    "filename": "STC-GEN-interior-column.skp"
-  },
-  "smart_living_smart_home_iot": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-smart-living-smart-home-iot.skp",
-    "filename": "STC-GEN-smart-living-smart-home-iot.skp"
-  },
-  "stc_flooring_2d_block": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-flooring-2d-block.skp",
-    "filename": "STC-GEN-stc-flooring-2d-block.skp"
-  },
-  "areja_furn_flooring_plan_cad_block": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-areja-furn-flooring-plan-cad-block.skp",
-    "filename": "STC-GEN-areja-furn-flooring-plan-cad-block.skp"
-  },
-  "galaxy_s24_series_poster": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-galaxy-s24-series-poster.skp",
-    "filename": "STC-GEN-galaxy-s24-series-poster.skp"
-  },
-  "wall_shell_poster_barcode": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wall-shell-poster-barcode.skp",
-    "filename": "STC-GEN-wall-shell-poster-barcode.skp"
-  },
-  "beats_studio3_poster": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-beats-studio3-poster.skp",
-    "filename": "STC-GEN-beats-studio3-poster.skp"
-  },
-  "digital_is_coming_home_poster": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-digital-is-coming-home-poster.skp",
-    "filename": "STC-GEN-digital-is-coming-home-poster.skp"
-  },
-  "tcl_tv_55_inches_stc": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-tcl-tv-55-inches-stc.skp",
-    "filename": "STC-GEN-tcl-tv-55-inches-stc.skp"
-  },
-  "apple_airpods_max_silver_box_2": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-apple-airpods-max-silver-box-2.skp",
-    "filename": "STC-GEN-apple-airpods-max-silver-box-2.skp"
-  },
-  "astronaut_full": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-astronaut-full.skp",
-    "filename": "STC-GEN-astronaut-full.skp"
-  },
-  "mekkah_floor_plan": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-mekkah-floor-plan.skp",
-    "filename": "STC-GEN-mekkah-floor-plan.skp"
-  },
-  "ceiling_grid": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-ceiling-grid.skp",
-    "filename": "STC-GEN-ceiling-grid.skp"
-  },
-  "stc_areja_full_model": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-areja-full-model.skp",
-    "filename": "STC-GEN-stc-areja-full-model.skp"
-  },
-  "smart_watch_stand": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-smart-watch-stand.skp",
-    "filename": "STC-GEN-smart-watch-stand.skp"
-  },
-  "rounded_side_table_ipad": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-rounded-side-table-ipad.skp",
-    "filename": "STC-GEN-rounded-side-table-ipad.skp"
-  },
-  "rounded_side_table_profile": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-rounded-side-table-profile.skp",
-    "filename": "STC-GEN-rounded-side-table-profile.skp"
-  },
-  "signage_system_zone_title_smartliving_stc": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-signage-system-zone-title-smartliving-stc.skp",
-    "filename": "STC-GEN-signage-system-zone-title-smartliving-stc.skp"
-  },
-  "wall_metal_grating": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wall-metal-grating.skp",
-    "filename": "STC-GEN-wall-metal-grating.skp"
-  },
-  "beats_studio3_stc_screen_poster": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-beats-studio3-stc-screen-poster.skp",
-    "filename": "STC-GEN-beats-studio3-stc-screen-poster.skp"
-  },
-  "wall_metal_grating_screen_stc": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wall-metal-grating-screen-stc.skp",
-    "filename": "STC-GEN-wall-metal-grating-screen-stc.skp"
-  },
-  "armchair_red_fabric": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-armchair-red-fabric.skp",
-    "filename": "STC-GEN-armchair-red-fabric.skp"
-  },
-  "kitchen_tripple_tables_chairs": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-kitchen-tripple-tables-chairs.skp",
-    "filename": "STC-GEN-kitchen-tripple-tables-chairs.skp"
-  },
-  "digital_island_stc": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-digital-island-stc.skp",
-    "filename": "STC-GEN-digital-island-stc.skp"
-  },
-  "stc_gen_single_module_mesh_display": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-gen-single-module-mesh-display.skp",
-    "filename": "STC-GEN-stc-gen-single-module-mesh-display.skp"
-  },
-  "corinthian_column_door_small": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-corinthian-column-door-small.skp",
-    "filename": "STC-GEN-corinthian-column-door-small.skp"
-  },
-  "columns_archi_plain_swirl": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-columns-archi-plain-swirl.skp",
-    "filename": "STC-GEN-columns-archi-plain-swirl.skp"
-  },
-  "cornices_collections": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-cornices-collections.skp",
-    "filename": "STC-GEN-cornices-collections.skp"
-  },
-  "cornices_crystal_mall_exterior": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-cornices-crystal-mall-exterior.skp",
-    "filename": "STC-GEN-cornices-crystal-mall-exterior.skp"
-  },
-  "stc_gen_signage_system_zone_title_digitallifestyle_stc": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-gen-signage-system-zone-title-digitallifestyle-stc.skp",
-    "filename": "STC-GEN-stc-gen-signage-system-zone-title-digitallifestyle-stc.skp"
-  },
-  "wall_shell_tv_display_set": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wall-shell-tv-display-set.skp",
-    "filename": "STC-GEN-wall-shell-tv-display-set.skp"
-  },
-  "facade_screen": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-facade-screen.skp",
-    "filename": "STC-GEN-facade-screen.skp"
-  },
-  "bald": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-bald.skp",
-    "filename": "STC-GEN-bald.skp"
-  },
-  "entrance_door_with_columns_corinthian": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-entrance-door-with-columns-corinthian.skp",
-    "filename": "STC-GEN-entrance-door-with-columns-corinthian.skp"
-  },
-  "adidass_logo": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-adidass-logo.skp",
-    "filename": "STC-GEN-adidass-logo.skp"
-  },
-  "wall_display_commercial_mesh_adidass": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wall-display-commercial-mesh-adidass.skp",
-    "filename": "STC-GEN-wall-display-commercial-mesh-adidass.skp"
-  },
-  "wood_cherry_material": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wood-cherry-material.skp",
-    "filename": "STC-GEN-wood-cherry-material.skp"
-  },
-  "baladora_grey_plain": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-baladora-grey-plain.skp",
-    "filename": "STC-GEN-baladora-grey-plain.skp"
-  },
-  "stc_small_sign_on_frosted": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-small-sign-on-frosted.skp",
-    "filename": "STC-GEN-stc-small-sign-on-frosted.skp"
-  },
-  "grey_carpet_col_mat": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-grey-carpet-col-mat.skp",
-    "filename": "STC-GEN-grey-carpet-col-mat.skp"
-  },
-  "tab_a_wood": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-tab-a-wood.skp",
-    "filename": "STC-GEN-tab-a-wood.skp"
-  },
-  "air_curtain_double_180cm": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-air-curtain-double-180cm.skp",
-    "filename": "STC-GEN-air-curtain-double-180cm.skp"
-  },
-  "entrance_door_setup_stc": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-entrance-door-setup-stc.skp",
-    "filename": "STC-GEN-entrance-door-setup-stc.skp"
-  },
-  "pc_setup_desktop_zone": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-pc-setup-desktop-zone.skp",
-    "filename": "STC-GEN-pc-setup-desktop-zone.skp"
-  },
-  "spider_fitting_fin_1": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-spider-fitting-fin-1.skp",
-    "filename": "STC-GEN-spider-fitting-fin-1.skp"
-  },
-  "perforated_facade_panelling_stc": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-perforated-facade-panelling-stc.skp",
-    "filename": "STC-GEN-perforated-facade-panelling-stc.skp"
-  },
-  "computer_vrayasset": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-computer-vrayasset.skp",
-    "filename": "STC-GEN-computer-vrayasset.skp"
-  },
-  "robot_vacuum_vrayasset": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-robot-vacuum-vrayasset.skp",
-    "filename": "STC-GEN-robot-vacuum-vrayasset.skp"
-  },
-  "notebook_001_vrayasset": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-notebook-001-vrayasset.skp",
-    "filename": "STC-GEN-notebook-001-vrayasset.skp"
-  },
-  "air_condition_inova": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-air-condition-inova.skp",
-    "filename": "STC-GEN-air-condition-inova.skp"
-  },
-  "car_vrayasset": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-car-vrayasset.skp",
-    "filename": "STC-GEN-car-vrayasset.skp"
-  },
-  "small_tv_display_module": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-small-tv-display-module.skp",
-    "filename": "STC-GEN-small-tv-display-module.skp"
-  },
-  "large_tv_display_module": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-large-tv-display-module.skp",
-    "filename": "STC-GEN-large-tv-display-module.skp"
-  },
-  "plam_livistona_australis_vrayasset": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-plam-livistona-australis-vrayasset.skp",
-    "filename": "STC-GEN-plam-livistona-australis-vrayasset.skp"
-  },
-  "cushion_gabriel_frame_ci_purple": {
-    "url": "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-cushion-gabriel-frame-ci-purple.skp",
-    "filename": "STC-GEN-cushion-gabriel-frame-ci-purple.skp"
-  }
+    "cushion":  {
+                    "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-cushion.skp",
+                    "filename":  "STC-GEN-cushion.skp"
+                },
+    "purple_plexiglass_unit_cushion":  {
+                                           "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-purple-plexiglass-unit-cushion.skp",
+                                           "filename":  "STC-GEN-purple-plexiglass-unit-cushion.skp"
+                                       },
+    "stc_gen_highlight_d_scooter":  {
+                                        "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-highlight-d-scooter.skp",
+                                        "filename":  "STC-GEN-highlight-d-scooter.skp"
+                                    },
+    "arper_ralik_1_seater_pouf_7400":  {
+                                           "url":  null,
+                                           "filename":  "Arper_Ralik_1_seater_pouf_7400.skp"
+                                       },
+    "pouf_9x9_coral":  {
+                           "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-pouf-9x9-coral.skp",
+                           "filename":  "STC-GEN-pouf-9x9-coral.skp"
+                       },
+    "dual_module_a":  {
+                          "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-dual-module-a.skp",
+                          "filename":  "STC-GEN-dual-module-a.skp"
+                      },
+    "stc_logo":  {
+                     "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-logo.skp",
+                     "filename":  "STC-GEN-stc-logo.skp"
+                 },
+    "interior_column":  {
+                            "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-interior-column.skp",
+                            "filename":  "STC-GEN-interior-column.skp"
+                        },
+    "smart_living_smart_home_iot":  {
+                                        "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-smart-living-smart-home-iot.skp",
+                                        "filename":  "STC-GEN-smart-living-smart-home-iot.skp"
+                                    },
+    "stc_flooring_2d_block":  {
+                                  "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-flooring-2d-block.skp",
+                                  "filename":  "STC-GEN-stc-flooring-2d-block.skp"
+                              },
+    "areja_furn_flooring_plan_cad_block":  {
+                                               "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-areja-furn-flooring-plan-cad-block.skp",
+                                               "filename":  "STC-GEN-areja-furn-flooring-plan-cad-block.skp"
+                                           },
+    "galaxy_s24_series_poster":  {
+                                     "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-galaxy-s24-series-poster.skp",
+                                     "filename":  "STC-GEN-galaxy-s24-series-poster.skp"
+                                 },
+    "wall_shell_poster_barcode":  {
+                                      "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wall-shell-poster-barcode.skp",
+                                      "filename":  "STC-GEN-wall-shell-poster-barcode.skp"
+                                  },
+    "beats_studio3_poster":  {
+                                 "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-beats-studio3-poster.skp",
+                                 "filename":  "STC-GEN-beats-studio3-poster.skp"
+                             },
+    "digital_is_coming_home_poster":  {
+                                          "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-digital-is-coming-home-poster.skp",
+                                          "filename":  "STC-GEN-digital-is-coming-home-poster.skp"
+                                      },
+    "tcl_tv_55_inches_stc":  {
+                                 "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-tcl-tv-55-inches-stc.skp",
+                                 "filename":  "STC-GEN-tcl-tv-55-inches-stc.skp"
+                             },
+    "apple_airpods_max_silver_box_2":  {
+                                           "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-apple-airpods-max-silver-box-2.skp",
+                                           "filename":  "STC-GEN-apple-airpods-max-silver-box-2.skp"
+                                       },
+    "astronaut_full":  {
+                           "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-astronaut-full.skp",
+                           "filename":  "STC-GEN-astronaut-full.skp"
+                       },
+    "mekkah_floor_plan":  {
+                              "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-mekkah-floor-plan.skp",
+                              "filename":  "STC-GEN-mekkah-floor-plan.skp"
+                          },
+    "ceiling_grid":  {
+                         "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-ceiling-grid.skp",
+                         "filename":  "STC-GEN-ceiling-grid.skp"
+                     },
+    "stc_areja_full_model":  {
+                                 "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-areja-full-model.skp",
+                                 "filename":  "STC-GEN-stc-areja-full-model.skp"
+                             },
+    "smart_watch_stand":  {
+                              "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-smart-watch-stand.skp",
+                              "filename":  "STC-GEN-smart-watch-stand.skp"
+                          },
+    "rounded_side_table_ipad":  {
+                                    "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-rounded-side-table-ipad.skp",
+                                    "filename":  "STC-GEN-rounded-side-table-ipad.skp"
+                                },
+    "rounded_side_table_profile":  {
+                                       "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-rounded-side-table-profile.skp",
+                                       "filename":  "STC-GEN-rounded-side-table-profile.skp"
+                                   },
+    "signage_system_zone_title_smartliving_stc":  {
+                                                      "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-signage-system-zone-title-smartliving-stc.skp",
+                                                      "filename":  "STC-GEN-signage-system-zone-title-smartliving-stc.skp"
+                                                  },
+    "wall_metal_grating":  {
+                               "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wall-metal-grating.skp",
+                               "filename":  "STC-GEN-wall-metal-grating.skp"
+                           },
+    "beats_studio3_stc_screen_poster":  {
+                                            "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-beats-studio3-stc-screen-poster.skp",
+                                            "filename":  "STC-GEN-beats-studio3-stc-screen-poster.skp"
+                                        },
+    "wall_metal_grating_screen_stc":  {
+                                          "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wall-metal-grating-screen-stc.skp",
+                                          "filename":  "STC-GEN-wall-metal-grating-screen-stc.skp"
+                                      },
+    "armchair_red_fabric":  {
+                                "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-armchair-red-fabric.skp",
+                                "filename":  "STC-GEN-armchair-red-fabric.skp"
+                            },
+    "kitchen_tripple_tables_chairs":  {
+                                          "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-kitchen-tripple-tables-chairs.skp",
+                                          "filename":  "STC-GEN-kitchen-tripple-tables-chairs.skp"
+                                      },
+    "digital_island_stc":  {
+                               "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-digital-island-stc.skp",
+                               "filename":  "STC-GEN-digital-island-stc.skp"
+                           },
+    "stc_gen_single_module_mesh_display":  {
+                                               "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-gen-single-module-mesh-display.skp",
+                                               "filename":  "STC-GEN-stc-gen-single-module-mesh-display.skp"
+                                           },
+    "corinthian_column_door_small":  {
+                                         "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-corinthian-column-door-small.skp",
+                                         "filename":  "STC-GEN-corinthian-column-door-small.skp"
+                                     },
+    "columns_archi_plain_swirl":  {
+                                      "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-columns-archi-plain-swirl.skp",
+                                      "filename":  "STC-GEN-columns-archi-plain-swirl.skp"
+                                  },
+    "cornices_collections":  {
+                                 "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-cornices-collections.skp",
+                                 "filename":  "STC-GEN-cornices-collections.skp"
+                             },
+    "cornices_crystal_mall_exterior":  {
+                                           "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-cornices-crystal-mall-exterior.skp",
+                                           "filename":  "STC-GEN-cornices-crystal-mall-exterior.skp"
+                                       },
+    "stc_gen_signage_system_zone_title_digitallifestyle_stc":  {
+                                                                   "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-gen-signage-system-zone-title-digitallifestyle-stc.skp",
+                                                                   "filename":  "STC-GEN-stc-gen-signage-system-zone-title-digitallifestyle-stc.skp"
+                                                               },
+    "wall_shell_tv_display_set":  {
+                                      "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wall-shell-tv-display-set.skp",
+                                      "filename":  "STC-GEN-wall-shell-tv-display-set.skp"
+                                  },
+    "facade_screen":  {
+                          "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-facade-screen.skp",
+                          "filename":  "STC-GEN-facade-screen.skp"
+                      },
+    "bald":  {
+                 "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-bald.skp",
+                 "filename":  "STC-GEN-bald.skp"
+             },
+    "entrance_door_with_columns_corinthian":  {
+                                                  "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-entrance-door-with-columns-corinthian.skp",
+                                                  "filename":  "STC-GEN-entrance-door-with-columns-corinthian.skp"
+                                              },
+    "adidass_logo":  {
+                         "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-adidass-logo.skp",
+                         "filename":  "STC-GEN-adidass-logo.skp"
+                     },
+    "wall_display_commercial_mesh_adidass":  {
+                                                 "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wall-display-commercial-mesh-adidass.skp",
+                                                 "filename":  "STC-GEN-wall-display-commercial-mesh-adidass.skp"
+                                             },
+    "wood_cherry_material":  {
+                                 "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-wood-cherry-material.skp",
+                                 "filename":  "STC-GEN-wood-cherry-material.skp"
+                             },
+    "baladora_grey_plain":  {
+                                "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-baladora-grey-plain.skp",
+                                "filename":  "STC-GEN-baladora-grey-plain.skp"
+                            },
+    "stc_small_sign_on_frosted":  {
+                                      "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-stc-small-sign-on-frosted.skp",
+                                      "filename":  "STC-GEN-stc-small-sign-on-frosted.skp"
+                                  },
+    "grey_carpet_col_mat":  {
+                                "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-grey-carpet-col-mat.skp",
+                                "filename":  "STC-GEN-grey-carpet-col-mat.skp"
+                            },
+    "tab_a_wood":  {
+                       "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-tab-a-wood.skp",
+                       "filename":  "STC-GEN-tab-a-wood.skp"
+                   },
+    "air_curtain_double_180cm":  {
+                                     "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-air-curtain-double-180cm.skp",
+                                     "filename":  "STC-GEN-air-curtain-double-180cm.skp"
+                                 },
+    "entrance_door_setup_stc":  {
+                                    "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-entrance-door-setup-stc.skp",
+                                    "filename":  "STC-GEN-entrance-door-setup-stc.skp"
+                                },
+    "pc_setup_desktop_zone":  {
+                                  "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-pc-setup-desktop-zone.skp",
+                                  "filename":  "STC-GEN-pc-setup-desktop-zone.skp"
+                              },
+    "spider_fitting_fin_1":  {
+                                 "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-spider-fitting-fin-1.skp",
+                                 "filename":  "STC-GEN-spider-fitting-fin-1.skp"
+                             },
+    "perforated_facade_panelling_stc":  {
+                                            "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-perforated-facade-panelling-stc.skp",
+                                            "filename":  "STC-GEN-perforated-facade-panelling-stc.skp"
+                                        },
+    "computer_vrayasset":  {
+                               "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-computer-vrayasset.skp",
+                               "filename":  "STC-GEN-computer-vrayasset.skp"
+                           },
+    "robot_vacuum_vrayasset":  {
+                                   "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-robot-vacuum-vrayasset.skp",
+                                   "filename":  "STC-GEN-robot-vacuum-vrayasset.skp"
+                               },
+    "notebook_001_vrayasset":  {
+                                   "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-notebook-001-vrayasset.skp",
+                                   "filename":  "STC-GEN-notebook-001-vrayasset.skp"
+                               },
+    "air_condition_inova":  {
+                                "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-air-condition-inova.skp",
+                                "filename":  "STC-GEN-air-condition-inova.skp"
+                            },
+    "car_vrayasset":  {
+                          "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-car-vrayasset.skp",
+                          "filename":  "STC-GEN-car-vrayasset.skp"
+                      },
+    "small_tv_display_module":  {
+                                    "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-small-tv-display-module.skp",
+                                    "filename":  "STC-GEN-small-tv-display-module.skp"
+                                },
+    "large_tv_display_module":  {
+                                    "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-large-tv-display-module.skp",
+                                    "filename":  "STC-GEN-large-tv-display-module.skp"
+                                },
+    "plam_livistona_australis_vrayasset":  {
+                                               "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-plam-livistona-australis-vrayasset.skp",
+                                               "filename":  "STC-GEN-plam-livistona-australis-vrayasset.skp"
+                                           },
+    "cushion_gabriel_frame_ci_purple":  {
+                                            "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-cushion-gabriel-frame-ci-purple.skp",
+                                            "filename":  "STC-GEN-cushion-gabriel-frame-ci-purple.skp"
+                                        },
+    "tv_display_panoramic_unit_with_tvs":  {
+                                               "url":  "https://raw.githubusercontent.com/mike-ai-lab/stc-gen-components/main/components/STC-GEN-tv-display-panoramic-unit-with-tvs.skp",
+                                               "filename":  "STC-GEN-tv-display-panoramic-unit-with-tvs.skp"
+                                           }
 }
